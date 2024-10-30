@@ -1,0 +1,21 @@
+# Interfaz gráfica
+tk 
+
+fer
+
+moviepy
+# Procesamiento de imágenes y video
+opencv-python
+
+# Procesamiento de audio
+librosa
+sounddevice
+
+# Machine learning y análisis de sentimientos
+transformers
+torch
+# Asegúrate de tener la versión correcta de PyTorch para tu sistema.
+# Puedes encontrarla en https://pytorch.org/get-started/locally/
+
+# Otros
+numpy
